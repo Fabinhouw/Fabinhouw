@@ -1,6 +1,6 @@
 ### Opá me chamo Fabio, mais conhecido como Fabinho
 
-⚡ Estudando: JavaScript e TypeScript
+⚡ Estudando pra me tornar fullstack
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fabinhouw&show_icons=true&theme=radical)
 
