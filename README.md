@@ -9,7 +9,7 @@
 Sou estudante de programação focado em desenvolvimento backend e segurança da informação.
 Aprendendo através de projetos práticos, automações e construção de aplicações web.
 
-* 🐍 Python & POO
+* 🐍 Python & Django
 * 🌐 Backend & APIs
 * 🛡️ Cyber Security (em formação)
 * 📚 Aprendizado contínuo
