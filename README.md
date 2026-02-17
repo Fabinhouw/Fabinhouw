@@ -16,14 +16,13 @@ Aprendendo através de projetos práticos, automações e construção de aplica
 
 ---
 
-## 🧠 Tecnologias em estudo
+## 🧠 Tecnologias
 
 <div style="display: inline_block"><br>
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/python/python-original.svg">
   <img align="center" alt="Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/django/django-plain.svg">
-  <img align="center" alt="Kali" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/kalilinux/kalilinux-original.svg">
 </div>
 
 ---
